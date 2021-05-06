@@ -1,0 +1,9 @@
+Setup redux - manage our application state done
+Setup reducers and actions
+Setup CHAT
+Setup chat queue
+display messages to the user
+get and handle session_ids
+handle sending messages to the API
+Adding bot responses to the queue
+formatting
